@@ -1,4 +1,4 @@
-//Oye tu codigo está increible, wow
+//Gracias, pero no debías de ver tu mi codigo, te equivocaste de rama
 
 #include <iostream>
 
